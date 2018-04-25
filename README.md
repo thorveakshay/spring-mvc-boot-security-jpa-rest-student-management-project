@@ -4,13 +4,9 @@
 
 Completed the CRUD operation on MySQL database.
 
-RESTful endpoints working.
+RESTful endpoints working using id.
 
 Intigrated HTTP basic auth for securing API's
-
-http://localhost:8080/api/all-students
-http://localhost:8080/api/all-students/10
-POST: /api/all-students/{id}
 
 ## Requirements
 
@@ -19,9 +15,9 @@ POST: /api/all-students/{id}
 3.  MySQL
 4.  Spring Boot
 
-## Database configurations
-db_schema.sql
-application.properties
+## Database configurations files
+* db_schema.sql
+* application.properties
 
 
 ## Steps to Setup
@@ -112,13 +108,13 @@ http://localhost:8080/api/all-students/1
 
 ````
 
-### Remaining functionality
+## Remaining functionality
 
 Connecting 2 tables
 Small percentage calculation
 UI improvements
 
-### Future scope
+## Future scope
 Validations
 Date picker for DOB
 unit tests

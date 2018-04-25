@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdba14e8-447e-4e06-8840-224c7f83733d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snapshots/Screen Shot 2018-04-24 at 4.17.27 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snapshots/Screen Shot 2018-04-24 at 4.17.42 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snapshots/Screen Shot 2018-04-24 at 4.18.48 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snapshots/Screen Shot 2018-04-24 at 4.46.53 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snapshots/Screen Shot 2018-04-24 at 5.01.20 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snapshots/Screen Shot 2018-04-24 at 5.01.45 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snapshots/Screen Shot 2018-04-24 at 5.02.24 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snapshots/Screen Shot 2018-04-24 at 5.03.05 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snapshots/Screen Shot 2018-04-24 at 5.03.12 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snapshots/Screen Shot 2018-04-24 at 5.03.29 PM.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cfe08f38-b924-4429-a490-6774e4ef8a1f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/cfe08f38-b924-4429-a490-6774e4ef8a1f.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db_schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thorveakshay/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thorveakshay/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thorveakshay/controller/StudentRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thorveakshay/controller/StudentRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thorveakshay/dao/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thorveakshay/dao/StudentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thorveakshay/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thorveakshay/model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thorveakshay/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thorveakshay/service/StudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/thorveakshay/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thorveakshay/config/SecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/thorveakshay/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thorveakshay/controller/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/thorveakshay/controller/StudentRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thorveakshay/controller/StudentRestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/thorveakshay/dao/ScoreCardRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thorveakshay/dao/ScoreCardRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/thorveakshay/dao/StudentRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thorveakshay/dao/StudentRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/thorveakshay/model/ScoreCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thorveakshay/model/ScoreCard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/thorveakshay/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thorveakshay/model/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/thorveakshay/service/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thorveakshay/service/StudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,8 +68,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="263">
-                <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+              <first_editor relative-caret-position="293">
+                <caret line="116" column="2" selection-start-line="116" selection-start-column="2" selection-end-line="116" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -534,12 +501,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524547293656</updated>
       <workItem from="1524547295502" duration="5535000" />
-      <workItem from="1524591021436" duration="21438000" />
+      <workItem from="1524591021436" duration="21789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32831000" />
+    <option name="totallyTimeSpent" value="33182000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="62" width="1280" height="724" extended-state="0" />
@@ -929,8 +896,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="263">
-            <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+          <first_editor relative-caret-position="293">
+            <caret line="116" column="2" selection-start-line="116" selection-start-column="2" selection-end-line="116" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
