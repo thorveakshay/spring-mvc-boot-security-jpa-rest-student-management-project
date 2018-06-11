@@ -1,6 +1,7 @@
 # Student Management System
+## Spring mvc boot security jpa rest student management project
 
-## Functionality covered
+## Functionality
 
 Completed the CRUD operation on MySQL database.
 
@@ -14,6 +15,8 @@ Intigrated HTTP basic auth for securing API's
 2.  Maven
 3.  MySQL
 4.  Spring Boot
+5.  Spring 5
+6.  Bootstrap + HTML
 
 ## Database configurations files
 * db_schema.sql
@@ -61,7 +64,7 @@ CREATE TABLE s_score (
 
 ### Code Setup
 
-* Download spring-boot-rest-student-management-example.zip
+* Clone repo
 * Extract zip 
 * Build and run the backend app using maven**
 
@@ -76,7 +79,7 @@ mvn spring-boot:run
 2) You can run the app without packaging it using
 
 ```bash
-cd spring-boot-rest-student-management-example-master
+cd spring-mvc-boot-security-jpa-rest-student-management-project-master
 mvn package
 java -jar target/studentmanagement.jar
 ```
@@ -95,7 +98,7 @@ Delete Student
 ### REST Endpoints:
 
 Created 3 users for HTTP basic Auth
-henry,mike, akshay - username and password are same
+akshay, john, sam - username and password are same
 
 ````
 localhost
@@ -108,15 +111,11 @@ http://localhost:8080/api/all-students/1
 
 ````
 
-## Remaining functionality
-
-Connecting 2 tables
-Small percentage calculation
-UI improvements
-
 ## Future scope
 Validations
 Date picker for DOB
 unit tests
 
-Including challange 1 and 2 total challange completion would be around 75% in one day. I will take one more day to complete both challanges including remaining functionality and future scope. 
+## See snapshot folder for details
+
+Thank you!
